@@ -1,5 +1,5 @@
 body { margin: 8% 10%; }
-div, h1, h2 { line-height: 150%; }
+div, h1, h2 { line-height: 150%; font-size: 20px;}
 ruby { line-height: 100%; }
 rt { line-height: 50%; }
 span.notes {font-size: smaller}
